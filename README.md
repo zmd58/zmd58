@@ -13,10 +13,22 @@
 
 <strong>Connect with me:</strong>
 <p><a href="https://www.linkedin.com/in/zoe-dang/">
-<img src="linkedin.png" alt="LinkedIn" width="80" height="80">
+        <img src="linkedin.png" alt="LinkedIn" width="50" height="50">
 </a></p>
 
 <strong>Languages and Tools:</strong>
 <p>
-
+        <img src="/logos/java.jpeg" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/sql.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/springboot.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/postgres.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/postman.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/git.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/mongo.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/react.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/vue.jpeg" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/html.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/css.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/api.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/json.png" alt="LinkedIn" width="50" height="50">
 </p>
