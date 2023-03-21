@@ -30,7 +30,7 @@
         <img src="/logos/sql.png" alt="sql" width="50" height="50">
         <img src="/logos/postgres.png" alt="postgres" width="50" height="50">
         <img src="/logos/nodejs.png" alt="noejs" width="50" height="50">
-        <img src="/logos/js.png" alt="javascript" width="40" height="50">
+        <img src="/logos/javascript.png" alt="javascript" width="40" height="50">
         <img src="/logos/html.png" alt="html" width="40" height="50">
         <img src="/logos/css.png" alt="css" width="40" height="50">       
 </p>
