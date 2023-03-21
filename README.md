@@ -18,17 +18,19 @@
 
 <strong>Languages and Tools:</strong>
 <p>
-        <img src="/logos/java.jpeg" alt="java" width="50" height="50">
+        <img src="/logos/java.png" alt="java" width="35" height="50">
         <img src="/logos/springboot.png" alt="spring" width="50" height="50">
-        <img src="/logos/api.png" alt="api" width="50" height="50">
+        <img src="/logos/api.webp" alt="api" width="50" height="50">
         <img src="/logos/json.png" alt="json" width="50" height="50">
         <img src="/logos/git.png" alt="git" width="50" height="50">
-         <img src="/logos/vue.jpeg" alt="vue" width="50" height="50">
+         <img src="/logos/vue.png" alt="vue" width="50" height="50">
         <img src="/logos/postman.png" alt="postman" width="50" height="50">
-        <img src="/logos/mongo.png" alt="mongo" width="50" height="50">
+        <img src="/logos/mongodb.png" alt="mongo" width="50" height="50">
         <img src="/logos/react.png" alt="react" width="50" height="50">
         <img src="/logos/sql.png" alt="sql" width="50" height="50">
         <img src="/logos/postgres.png" alt="postgres" width="50" height="50">
+        <img src="/logos/nodejs.png" alt="noejs" width="50" height="50">
+        <img src="/logos/js.png" alt="javascript" width="50" height="50">
         <img src="/logos/html.png" alt="html" width="50" height="50">
-        <img src="/logos/css.png" alt="css" width="50" height="50">
+        <img src="/logos/css.png" alt="css" width="50" height="50">       
 </p>
