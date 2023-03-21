@@ -6,7 +6,7 @@
         <li>🔭 I’m currently working on a fullstack money transfering application using Java, Spring, MongoDB, and React!</li>
         <li>🌱 I’m currently learning cloud services like AWS, Azure, and Goodle cloud.</li>
         <li>👯 I’m looking to collaborate on any project from solving a problem in our daily life or even a fun game :)</li>
-        <li>📫 How to reach me: <a href="zmdang58@gmail.com"> zmdang58@gmail.com</a></li>
+        <li>📫 How to reach me: <a href="mailto:zmdang58@gmail.com"> zmdang58@gmail.com</a></li>
         <li>😄 Pronouns: She/her</li>
         <li>⚡ Fun fact: I am a big houseplant enthusiast so ask me about my plant collection and what I have in mind to collect next!</li>
 </ul>
