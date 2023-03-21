@@ -13,7 +13,7 @@
 
 <strong>Connect with me:</strong>
 <p><a href="https://www.linkedin.com/in/zoe-dang/">
-<img src="linkedin.png" alt="LinkedIn" width="100" height="132">
+<img src="linkedin.png" alt="LinkedIn" width="80" height="80">
 </a></p>
 
 <strong>Languages and Tools:</strong>
