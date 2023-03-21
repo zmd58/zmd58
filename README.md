@@ -18,17 +18,17 @@
 
 <strong>Languages and Tools:</strong>
 <p>
-        <img src="/logos/java.jpeg" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/sql.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/springboot.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/postgres.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/api.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/json.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/git.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/mongo.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/react.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/vue.jpeg" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/postman.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/html.png" alt="LinkedIn" width="50" height="50">
-        <img src="/logos/css.png" alt="LinkedIn" width="50" height="50">
+        <img src="/logos/java.jpeg" alt="java" width="50" height="50">
+        <img src="/logos/springboot.png" alt="spring" width="50" height="50">
+        <img src="/logos/api.png" alt="api" width="50" height="50">
+        <img src="/logos/json.png" alt="json" width="50" height="50">
+        <img src="/logos/git.png" alt="git" width="50" height="50">
+         <img src="/logos/vue.jpeg" alt="vue" width="50" height="50">
+        <img src="/logos/postman.png" alt="postman" width="50" height="50">
+        <img src="/logos/mongo.png" alt="mongo" width="50" height="50">
+        <img src="/logos/react.png" alt="react" width="50" height="50">
+        <img src="/logos/sql.png" alt="sql" width="50" height="50">
+        <img src="/logos/postgres.png" alt="postgres" width="50" height="50">
+        <img src="/logos/html.png" alt="html" width="50" height="50">
+        <img src="/logos/css.png" alt="css" width="50" height="50">
 </p>
