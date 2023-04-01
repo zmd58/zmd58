@@ -12,7 +12,7 @@
 </ul>
 
 <strong>Connect with me:</strong>
-<p><a href="https://www.linkedin.com/in/zoe-dang/" target="_blank">
+<p><a href="https://www.linkedin.com/in/zoe-dang/" rel="noopener noreferrer" target="_blank">
         <img src="/logos/linkedin.png" alt="LinkedIn" width="50" height="50">
 </a></p>
 
