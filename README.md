@@ -3,8 +3,8 @@
 <h3 align='center'>A Fullstack Java Developer from Atlanta, Georgia</h3>
 
 <ul>
-        <li>🔭 I’m currently working on a fullstack money transfering application using Java, Spring, MongoDB (with AWS), and React!</li>
-        <li>🌱 I’m currently learning cloud services like AWS, Azure, and Google Cloud.</li>
+        <li>🔭 I’m currently working on a Web Store Application using Java, Spring Boot, and MongoDB!</li>
+        <li>🌱 I’m currently in the process of obtaining my AWS certification.</li>
         <li>👯 I’m looking to collaborate on any project from solving a problem in our daily life to a fun game :)</li>
         <li>📫 How to reach me: <a href="mailto:zmdang58@gmail.com"> zmdang58@gmail.com</a></li>
         <li>😄 Pronouns: She/her</li>
