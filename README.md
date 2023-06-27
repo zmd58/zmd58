@@ -1,4 +1,4 @@
-<h1 align='center'>Hi all 👋, I'm Zoe Dang!</h1>
+<h1 align='center'>Hi All 👋, I'm Zoe Dang!</h1>
 
 <h3 align='center'>A Fullstack Java Developer from Atlanta, Georgia</h3>
 
