@@ -35,5 +35,5 @@
         <img src="/logos/css.png" alt="css" width="55" height="50">   
         <img src="/logos/typescript.png" alt="css" width="55" height="50">   
         <img src="/logos/angular.png" alt="css" width="55" height="50">   
-        <img src="/logos/python.png" alt="css" width="55" height="50">   
+        <img src="/logos/python.webp" alt="css" width="55" height="50">   
 </p>
