@@ -3,8 +3,8 @@
 <h3 align='center'>A Fullstack Java Developer from Atlanta, Georgia</h3>
 
 <ul>
-        <li>🔭 I’m currently working on a Web Store Application using Java, Spring Boot, and MongoDB!</li>
-        <li>🌱 I’m currently in the process of obtaining my AWS certification.</li>
+        <li>🔭 I’m currently building a fullstack Web Store using Angular, Typescript, Java, Spring Boot, and MongoDB!</li>
+        <li>🌱 I’m currently in the process of completing my Bachelor of Science majoring in Software Engineering.</li>
         <li>👯 I’m looking to collaborate on any project from solving a problem in our daily life to a fun game :)</li>
         <li>📫 How to reach me: <a href="mailto:zmdang58@gmail.com"> zmdang58@gmail.com</a></li>
         <li>😄 Pronouns: She/her</li>
@@ -32,5 +32,8 @@
         <img src="/logos/nodejs.png" alt="noejs" width="50" height="50">
         <img src="/logos/javascript.png" alt="javascript" width="50" height="50">
         <img src="/logos/html.png" alt="html" width="55" height="50">
-        <img src="/logos/css.png" alt="css" width="55" height="50">       
+        <img src="/logos/css.png" alt="css" width="55" height="50">   
+        <img src="/logos/typescript.png" alt="css" width="55" height="50">   
+        <img src="/logos/angular.png" alt="css" width="55" height="50">   
+        <img src="/logos/python.png" alt="css" width="55" height="50">   
 </p>
