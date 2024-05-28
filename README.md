@@ -4,16 +4,19 @@
 
 <ul>
         <li>🔭 I’m currently building a fullstack Web Store using Angular, Typescript, Java, Spring Boot, and MongoDB!</li>
-        <li>🌱 I’m currently in the process of completing my Bachelor of Science majoring in Software Engineering.</li>
+        <li>🌱 I recently graduated with a Bachelor of Science majoring in Software Engineering.</li>
         <li>👯 I’m looking to collaborate on any project from solving a problem in our daily life to a fun game :)</li>
         <li>📫 How to reach me: <a href="mailto:zmdang58@gmail.com"> zmdang58@gmail.com</a></li>
         <li>😄 Pronouns: She/her</li>
-        <li>⚡ Fun fact: I am a big houseplant enthusiast so ask me about my plant collection and what I have in mind to collect next!</li>
+        <li>⚡ Fun fact: I am a big houseplant and nano aquarium enthusiast so ask me about my plant collection or nano aquascape tanks!</li>
 </ul>
 
 <strong>Connect with me:</strong>
 <p><a href="https://www.linkedin.com/in/zoe-dang/" rel="noopener noreferrer" target="_blank">
         <img src="/logos/linkedin.png" alt="LinkedIn" width="50" height="50">
+</a></p>
+<p><a href="https://zdang.cloud/" rel="noopener noreferrer" target="_blank">
+        <img src="/logos/fav.png" alt="ZMD Logo" width="50" height="50">
 </a></p>
 
 <strong>Languages and Tools:</strong>
