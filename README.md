@@ -14,8 +14,8 @@
 <strong>Connect with me:</strong>
 <p><a href="https://www.linkedin.com/in/zoe-dang/" rel="noopener noreferrer" target="_blank">
         <img src="/logos/linkedin.png" alt="LinkedIn" width="50" height="50">
-</a></p>
-<p><a href="https://zdang.cloud/" rel="noopener noreferrer" target="_blank">
+</a>
+<a href="https://zdang.cloud/" rel="noopener noreferrer" target="_blank">
         <img src="/logos/fav.png" alt="ZMD Logo" width="50" height="50">
 </a></p>
 
