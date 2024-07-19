@@ -3,12 +3,12 @@
 <h3 align='center'>A Fullstack Java Developer from Atlanta, Georgia</h3>
 
 <ul>
-        <li>🔭 I’m currently building a fullstack Web Store using Angular, Typescript, Java, Spring Boot, and MongoDB!</li>
+        <li>🔭 I’m currently building various Java/Spring Boot boilerplate frameworks to improve the development process!</li>
         <li>🌱 I recently graduated with a Bachelor of Science majoring in Software Engineering.</li>
         <li>👯 I’m looking to collaborate on any project from solving a problem in our daily life to a fun game :)</li>
         <li>📫 How to reach me: <a href="mailto:zmdang58@gmail.com"> zmdang58@gmail.com</a></li>
         <li>😄 Pronouns: She/her</li>
-        <li>⚡ Fun fact: I am a big houseplant and nano aquarium enthusiast so ask me about my plant collection or nano aquascape tanks!</li>
+        <li>⚡ Fun fact: I love doing bonsai with portulacaria afra *you should google it :)* and nano aquarium enthusiast so ask me about my plant collection or medaka rice fish!</li>
 </ul>
 
 <strong>Connect with me:</strong>
