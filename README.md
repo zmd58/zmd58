@@ -3,8 +3,8 @@
 <h3 align='center'>A Fullstack Java Developer from Atlanta, Georgia</h3>
 
 <ul>
-        <li>🔭 I’m currently building various Java/Spring Boot boilerplate frameworks to improve the development process!</li>
-        <li>🌱 I recently graduated with a Bachelor of Science majoring in Software Engineering.</li>
+        <li>🔭 I’m currently building an accounting software to brush up on my accounting/finance skills!</li>
+        <li>🌱 I recently graduated with a Bachelor of Science majoring in Software Engineering and I'm working on joining the US Air Force.</li>
         <li>👯 I’m looking to collaborate on any project from solving a problem in our daily life to a fun game :)</li>
         <li>📫 How to reach me: <a href="mailto:zmdang58@gmail.com"> zmdang58@gmail.com</a></li>
         <li>😄 Pronouns: She/her</li>
