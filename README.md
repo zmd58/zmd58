@@ -8,7 +8,7 @@
         <li>👯 I’m looking to collaborate on any project from solving a problem in our daily life to a fun game :)</li>
         <li>📫 How to reach me: <a href="mailto:zmdang58@gmail.com"> zmdang58@gmail.com</a></li>
         <li>😄 Pronouns: She/her</li>
-        <li>⚡ Fun fact: I love doing bonsai with portulacaria afra *you should google it :)* and nano aquarium enthusiast so ask me about my plant collection or medaka rice fish!</li>
+        <li>⚡ Fun fact: I love doing bonsai with portulacaria afra *you should google it :)* and if you want to see my happy side, just bring me TEA LOL!</li>
 </ul>
 
 <strong>Connect with me:</strong>
